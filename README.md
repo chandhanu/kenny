@@ -1,0 +1,2 @@
+# kenny
+simple stock predicter
